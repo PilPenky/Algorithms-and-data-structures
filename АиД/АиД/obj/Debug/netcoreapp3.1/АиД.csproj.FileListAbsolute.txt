@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\АиД\АиД\bin\Debug\netcoreapp3.1\АиД.exe
+C:\Users\Asus\source\repos\АиД\АиД\bin\Debug\netcoreapp3.1\АиД.deps.json
+C:\Users\Asus\source\repos\АиД\АиД\bin\Debug\netcoreapp3.1\АиД.runtimeconfig.json
+C:\Users\Asus\source\repos\АиД\АиД\bin\Debug\netcoreapp3.1\АиД.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\АиД\АиД\bin\Debug\netcoreapp3.1\АиД.dll
+C:\Users\Asus\source\repos\АиД\АиД\bin\Debug\netcoreapp3.1\АиД.pdb
+C:\Users\Asus\source\repos\АиД\АиД\obj\Debug\netcoreapp3.1\АиД.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\АиД\АиД\obj\Debug\netcoreapp3.1\АиД.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\АиД\АиД\obj\Debug\netcoreapp3.1\АиД.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\АиД\АиД\obj\Debug\netcoreapp3.1\АиД.AssemblyInfo.cs
+C:\Users\Asus\source\repos\АиД\АиД\obj\Debug\netcoreapp3.1\АиД.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\АиД\АиД\obj\Debug\netcoreapp3.1\АиД.dll
+C:\Users\Asus\source\repos\АиД\АиД\obj\Debug\netcoreapp3.1\АиД.pdb
+C:\Users\Asus\source\repos\АиД\АиД\obj\Debug\netcoreapp3.1\АиД.genruntimeconfig.cache
